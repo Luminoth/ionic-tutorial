@@ -8,6 +8,9 @@
 ## Init Application
 
 * ionic start {name} {template} --type=angular --capacitor
+  * tabs
+  * sidemenu
+  * blank
 
 * ionic build
 * ionic cap add android
